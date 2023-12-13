@@ -36,3 +36,5 @@ plt.xlabel('Tiempo (s)')
 plt.ylabel('Amplitud')
 
 plt.show()
+
+print("modificacion")
